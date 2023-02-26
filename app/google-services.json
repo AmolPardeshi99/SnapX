@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224593295055",
+    "project_id": "snapx-b04ed",
+    "storage_bucket": "snapx-b04ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224593295055:android:5f728e00370b77897aa9ba",
+        "android_client_info": {
+          "package_name": "dev.amol.snapx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224593295055-n3eavsepkgispev51g903hk62t0on9ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcrbGGcODi6IuuDQ7x6WoQuB_0WyhbzA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224593295055-n3eavsepkgispev51g903hk62t0on9ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
